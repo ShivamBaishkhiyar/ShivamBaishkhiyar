@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Baishkhiyar</h1>
 <h3 align="center">A passionate Developer, Programmer, Learner from India</h3>
 
-- 🌱 I’m currently learning **Reactjs and Nodejs**
+- 🌱 I’m currently learning **SpringBoot and Microservices**
 
 - 👯 I’m looking to collaborate on **Web Dev Stuffs**
 
