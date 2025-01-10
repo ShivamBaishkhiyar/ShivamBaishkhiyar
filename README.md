@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Developer, Programmer and Learner</h3>
 </br>
 
-- 👨‍💻 Software Engineer in **Tata Consultancy Services Limited**.
+- 👨‍💻 Software Engineer @ **Tata Consultancy Services Limited**.
 
 - 🌱 Currently focussed in **SpringBoot and Microservices**.
 
