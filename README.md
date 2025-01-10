@@ -7,7 +7,7 @@
 
 - 🌱 Currently focussed in **SpringBoot and Microservices**.
 
-- All of my projects are available at [https://github.com/ShivamBaishkhiyar](https://github.com/ShivamBaishkhiyar)
+- All of my personal projects are available [here](https://github.com/ShivamBaishkhiyar?tab=repositories)
 
 - 📫 Reach me at **shivamkumar.75grd@gmail.com**
 
